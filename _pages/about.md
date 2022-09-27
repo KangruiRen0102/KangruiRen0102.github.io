@@ -7,7 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
+# 👦 About Me
+I graduated from [McGill University](https://www.mcgill.ca) with a bachelor’s degree in Honours Computer Science, advised by [Prof. Xujie Si](https://www.cs.mcgill.ca/~xsi). I also worked with [Prof. Jin Guo](https://www.cs.mcgill.ca/~jguo/lab.html), [Prof. Prakash Panangaden](https://www.cs.mcgill.ca/~prakash/), [Prof. David Rolnick](https://davidrolnick.com/) for graduate studies.
 
+I joined Amazon Web Services as a software engineer after graduation. I worked on daily ops investigation to analyze customer impact and undertake maintenance of affected AWS services. In addition to this, I also worked on existing features addition, local unit testing, integration testing and deployment on CI/CD pipeline.
 
 
 # 🎖 Honours and Awards
@@ -24,4 +27,4 @@ redirect_from:
 # 💻 Professional Experiences
 - *2022.02 - 2022.05*, [Amazon Web Services](https://aws.amazon.com/), Vancouver.
 
-# 🎙 Speech Synthesis
+
