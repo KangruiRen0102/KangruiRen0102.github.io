@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-# 🎖 Honors and Awards
+# 🎖 Honours and Awards
 - *2021.06* First Class Honours in Computer Science. 
 - *2018.09* Alma Mater Scholarship.
 
@@ -21,5 +21,7 @@ redirect_from:
 - *2007.09 - 2012.06*, Shanxian Experimental Primary School, Shanxian, China.
 
 
-# 💻 Professional Experience
+# 💻 Professional Experiences
 - *2022.02 - 2022.05*, [Amazon Web Services](https://aws.amazon.com/), Vancouver.
+
+# 🎙 Speech Synthesis
