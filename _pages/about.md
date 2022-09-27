@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-).
+
 
 
 # 🎖 Honors and Awards
