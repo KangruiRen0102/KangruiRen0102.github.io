@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lorem ipsum"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "RayeRen/acad-homepage.github.io"
+title                    : "Kangrui Ren"
+description              : "Graduating from McGill University, Interested in SE, CV, and Computing Theory."
+repository               : "KangruiRen0102/KangruiRen0102.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lorem ipsum"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
-  location         : "Beijing, China"
+  name             : "Kangrui Ren"
+  avatar           : "images/WeChat Image_20220925230528.jpg"
+  bio              : "任康睿"
+  location         : "Vancouver, Canada"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
+  email            : "kangrui.ren@mail.mcgill.ca"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -40,10 +39,10 @@ author:
   github           : # e.g., "github username"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "https://www.instagram.com/sebastianren0102"
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
+  linkedin         : "https://www.linkedin.com/in/kangrui-ren-6a2b38217"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
