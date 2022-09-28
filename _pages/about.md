@@ -16,7 +16,7 @@ redirect_from:
 
 # 📝 Works
 ## SoftWare Engineering Application
-- [Intelligent-Video-Recommendation-System](https://github.com/KangruiRen0102/Intelligent-Video-Recommendation-System)  
+- [Intelligent-Video-Recommendation-System](https://github.com/KangruiRen0102/Intelligent-Video-Recommendation-System)
 
 The work is to create a movie recommender system for a movie streaming service with about 1 million customers and 27k movies.
 
@@ -25,11 +25,12 @@ The work is to create a movie recommender system for a movie streaming service w
 
 The work is to analyze the performance of active learning labeling costs reduction using AIFT algorithm in a medical imaging case study.
 
-- [Predicting-climate-change-driven-changes-in-plant-distribution](https://github.com/KangruiRen0102/Predicting-climate-change-driven-changes-in-plant-distribution) 
+- [Predicting-climate-change-driven-changes-in-plant-distribution](https://github.com/KangruiRen0102/Predicting-climate-change-driven-changes-in-plant-distribution)
 
 The work is to raise a proposal of methodology of using deep learning to predict climate change effects to local ecosystem distribution.
 
-- [Neural-Symbolic-Reasoning-for-Handwritten-Expression-Evaluation](https://github.com/KangruiRen0102/Neural-Symbolic-Reasoning-for-Handwritten-Expression-Evaluation)  
+- [Neural-Symbolic-Reasoning-for-Handwritten-Expression-Evaluation](https://github.com/KangruiRen0102/Neural-Symbolic-Reasoning-for-Handwritten-Expression-Evaluation)
+ 
 The work conducted experiments on inverse nerual symbolic logical reasoning for handwritten expressions with DeepProbLog and discovered limitations of gradient semiring in nonelementary arithmetic reasoning.
 
 # 🎖 Honours and Awards
