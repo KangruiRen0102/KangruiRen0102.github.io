@@ -15,7 +15,7 @@ redirect_from:
 - I joined Amazon Web Services as a software engineer after graduation. I worked on daily ops investigation to analyze customer impact and undertake maintenance of affected AWS services. In addition to this, I also worked on existing features addition, local unit testing, integration testing and deployment on CI/CD pipeline.
 
 # 📝 Works
-## SoftWare Engineering Application
+##    SoftWare Engineering Application
 - [Intelligent-Video-Recommendation-System](https://github.com/KangruiRen0102/Intelligent-Video-Recommendation-System)
 The work is xxxxxxx
 
