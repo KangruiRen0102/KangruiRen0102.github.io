@@ -16,11 +16,11 @@ redirect_from:
 
 # 📝 Works
 ## SoftWare Engineering Application
-- [Intelligent-Video-Recommendation-System](https://github.com/KangruiRen0102/Intelligent-Video-Recommendation-System)
+- [Intelligent-Video-Recommendation-System](https://github.com/KangruiRen0102/Intelligent-Video-Recommendation-System)  
 The work is to create a movie recommender system for a movie streaming service with about 1 million customers and 27k movies.
 
 ## Machine Learning Topics
-- [Application on Case Analysis of Active Learning in Reducing Annotation Cost](https://github.com/KangruiRen0102/Application-on-Case-Analysis-of-Active-Learning-in-Reducing-Annotation-Cost)
+- [Application on Case Analysis of Active Learning in Reducing Annotation Cost](https://github.com/KangruiRen0102/Application-on-Case-Analysis-of-Active-Learning-in-Reducing-Annotation-Cost)  
 Contributed a report that focuses on a special medical imaging case study and revised the AIFT algorithm to effectively reduce the labeling cost by 50%.
 
 - [Predicting-climate-change-driven-changes-in-plant-distribution](https://github.com/KangruiRen0102/Predicting-climate-change-driven-changes-in-plant-distribution)
