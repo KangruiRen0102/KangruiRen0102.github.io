@@ -7,12 +7,20 @@ redirect_from:
   - /about/
   - /about.html
 ---
-# 👦 About Me
-- I graduated from [McGill University](https://www.mcgill.ca) with a bachelor’s degree in Honours Computer Science, advised by [Prof. Xujie Si](https://www.cs.mcgill.ca/~xsi). I also worked with [Prof. Jin Guo](https://www.cs.mcgill.ca/~jguo/lab.html), [Prof. Prakash Panangaden](https://www.cs.mcgill.ca/~prakash/), [Prof. David Rolnick](https://davidrolnick.com/) for graduate studies.
 
-- I visited Stanford University on Fall 2019 to pursue advanced studies in the fields of artificial intelligence and machine learning. My last year of university research focused on software engineering applications, statistical learning theory, and the application of ML/DL topics. In addition to this, I am also interested in the application of computer vision to medical imaging, computer graphics for the simulation of natural ecosystems, and computing theory.
+{% if site.google_scholar_stats_use_cdn %}
+{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
+{% else %}
+{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
+{% endif %}
+{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-- I joined Amazon Web Services as a software engineer after graduation. I worked on daily ops investigation to analyze customer impact and undertake maintenance of affected AWS services. In addition to this, I also worked on existing features addition, local unit testing, integration testing and deployment on CI/CD pipeline.
+<span class='anchor' id='about-me'></span>
+I graduated from [McGill University](https://www.mcgill.ca) with a bachelor’s degree in Honours Computer Science, advised by [Prof. Xujie Si](https://www.cs.mcgill.ca/~xsi). I also worked with [Prof. Jin Guo](https://www.cs.mcgill.ca/~jguo/lab.html), [Prof. Prakash Panangaden](https://www.cs.mcgill.ca/~prakash/), [Prof. David Rolnick](https://davidrolnick.com/) for graduate studies.
+
+I visited Stanford University on Fall 2019 to pursue advanced studies in the fields of artificial intelligence and machine learning. My last year of university research focused on software engineering applications, statistical learning theory, and the application of ML/DL topics. In addition to this, I am also interested in the application of computer vision to medical imaging, computer graphics for the simulation of natural ecosystems, and computing theory.
+
+I joined Amazon Web Services as a software engineer after graduation. I worked on daily ops investigation to analyze customer impact and undertake maintenance of affected AWS services. In addition to this, I also worked on existing features addition, local unit testing, integration testing and deployment on CI/CD pipeline.
 
 # 📝 Works
 ## SoftWare Engineering Application
@@ -43,7 +51,7 @@ redirect_from:
 # 💻 Professional Experiences
 - *2022.02 - 2022.05*, [Amazon Web Services](https://aws.amazon.com/), Software Engineer, Vancouver.
 
-# 💬 Invited Talks
+# 💬 Personal Interests
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
