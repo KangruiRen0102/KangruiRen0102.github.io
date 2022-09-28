@@ -52,8 +52,7 @@ I joined Amazon Web Services as a software engineer after graduation. I worked o
 - *2022.02 - 2022.05*, [Amazon Web Services](https://aws.amazon.com/), Software Engineer, Vancouver.
 
 # 💬 Personal Interests
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+I am very interested in traditional Chinese musical instruments, Buddhism, especially Tibetan esoteric sects, and ancient history.
 
 
 
