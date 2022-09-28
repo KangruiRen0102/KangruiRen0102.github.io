@@ -43,4 +43,7 @@ redirect_from:
 # 💻 Professional Experiences
 - *2022.02 - 2022.05*, [Amazon Web Services](https://aws.amazon.com/), Software Engineer, Vancouver.
 
+# ❤️ Personal Interests
+
+
 
