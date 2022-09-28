@@ -15,9 +15,15 @@ redirect_from:
 - I joined Amazon Web Services as a software engineer after graduation. I worked on daily ops investigation to analyze customer impact and undertake maintenance of affected AWS services. In addition to this, I also worked on existing features addition, local unit testing, integration testing and deployment on CI/CD pipeline.
 
 # 📝 Works
-##    SoftWare Engineering Application
+## SoftWare Engineering Application
 - [Intelligent-Video-Recommendation-System](https://github.com/KangruiRen0102/Intelligent-Video-Recommendation-System)
-The work is xxxxxxx
+The work is to create a movie recommender system for a movie streaming service with about 1 million customers and 27k movies.
+
+## Machine Learning Topics
+- [Application on Case Analysis of Active Learning in Reducing Annotation Cost](https://github.com/KangruiRen0102/Application-on-Case-Analysis-of-Active-Learning-in-Reducing-Annotation-Cost)
+Contributed a report that focuses on a special medical imaging case study and revised the AIFT algorithm to effectively reduce the labeling cost by 50%.
+
+- [Predicting-climate-change-driven-changes-in-plant-distribution](https://github.com/KangruiRen0102/Predicting-climate-change-driven-changes-in-plant-distribution)
 
 
 # 🎖 Honours and Awards
