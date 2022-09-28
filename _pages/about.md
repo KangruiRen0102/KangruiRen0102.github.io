@@ -18,7 +18,6 @@ redirect_from:
 ## SoftWare Engineering Application
 - [Intelligent-Video-Recommendation-System](https://github.com/KangruiRen0102/Intelligent-Video-Recommendation-System)  
 
-
 The work is to create a movie recommender system for a movie streaming service with about 1 million customers and 27k movies.
 
 ## Machine Learning Topics
@@ -26,7 +25,7 @@ The work is to create a movie recommender system for a movie streaming service w
 
 The work is to analyze the performance of active learning labeling costs reduction using AIFT algorithm in a medical imaging case study.
 
-- [Predicting-climate-change-driven-changes-in-plant-distribution](https://github.com/KangruiRen0102/Predicting-climate-change-driven-changes-in-plant-distribution)  
+- [Predicting-climate-change-driven-changes-in-plant-distribution](https://github.com/KangruiRen0102/Predicting-climate-change-driven-changes-in-plant-distribution) 
 
 The work is to raise a proposal of methodology of using deep learning to predict climate change effects to local ecosystem distribution.
 
