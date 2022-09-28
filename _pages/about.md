@@ -52,7 +52,8 @@ I joined Amazon Web Services as a software engineer after graduation. I worked o
 - *2022.02 - 2022.05*, [Amazon Web Services](https://aws.amazon.com/), Software Engineer, Vancouver.
 
 # 💬 Personal Interests
-I am very interested in traditional Chinese musical instruments, Buddhism, especially Tibetan esoteric sects, and ancient history.
+- I am very interested in traditional Chinese musical instruments, Buddhism, especially Tibetan esoteric sects, and ancient history.
+- I am proficient in ErHu performance (Professional LV 10), and I'm well-played with Dongxiao, Hulusi, Xun.
 
 
 
