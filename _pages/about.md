@@ -25,7 +25,13 @@ I joined Amazon Web Services as a software engineer after graduation. I worked o
 # 📝 Works
 ## Software Engineering Application
 - [Intelligent-Video-Recommendation-System](https://github.com/KangruiRen0102/Intelligent-Video-Recommendation-System)  
-  The work is to create a movie recommender system for a movie streaming service with about 1 million customers and 27k movies.
+  The work created a movie recommender system for a movie streaming service with about 1 million customers and 27k movies.
+  
+- [Online Hotel Booking Database Management System](https://drive.google.com/drive/folders/1cPud3bsF08WWvg0gXF1v9bIzB_zDEk_A?usp=sharing)  
+  The work created a online hotel booking system as a platform for hotel-to-guest communications, it offers sound and elementary requirements.
+  
+- [Distributed Travel Reservation System](https://drive.google.com/drive/folders/11CwL1YIGfixglh8W0nFGtC3q5_1DmH9z?usp=sharing)  
+  The work implemented amulti-client, multi-server travel reservation system using Remote Method Invocation and TCP sockets, which provides integrated travel booking services.
 
 ## Machine Learning Topics
 - [Application on Case Analysis of Active Learning in Reducing Annotation Cost](https://github.com/KangruiRen0102/Application-on-Case-Analysis-of-Active-Learning-in-Reducing-Annotation-Cost)  
@@ -36,6 +42,11 @@ I joined Amazon Web Services as a software engineer after graduation. I worked o
 
 - [Neural-Symbolic-Reasoning-for-Handwritten-Expression-Evaluation](https://github.com/KangruiRen0102/Neural-Symbolic-Reasoning-for-Handwritten-Expression-Evaluation)   
   The work conducted experiments on inverse nerual symbolic logical reasoning for handwritten expressions with DeepProbLog and discovered limitations of gradient semiring in nonelementary arithmetic reasoning.
+  
+- [Obstacle visual detection and multimodal interaction of quadruped bionic robot](https://www.yobotics.cn/)  
+
+  In this work, the depth information and infrared information are fused, and the adaptive threshold is used to segment the obstacle from the background for accuracy issues.
+  
 
 # 🎖 Honours and Awards
 - *2021.06* First Class Honours in Computer Science. 
@@ -50,7 +61,7 @@ I joined Amazon Web Services as a software engineer after graduation. I worked o
 
 # 💻 Professional Experiences
 - *2022.02 - 2022.05*, Software Engineer at [Amazon Web Services](https://aws.amazon.com/), Vancouver.
-- *2021.06 - 2021.12*, Research Assistant at [Yobotics](https://www.yobotics.cn/), China(remote).
+- *2021.06 - 2021.12*, Research Assistant at [Yobotics](https://www.yobotics.cn/), China (remote).
 
 # 💬 Personal Interests
 - I am very interested in traditional Chinese musical instruments, Buddhism, especially Tibetan esoteric sects, and ancient history.
