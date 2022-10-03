@@ -23,16 +23,16 @@ I visited Stanford University on Fall 2019 to pursue advanced studies in the fie
 I joined Amazon Web Services as a software engineer after graduation. I worked on daily ops investigation to analyze customer impact and undertake maintenance of affected AWS services. In addition to this, I also worked on existing features addition, local unit testing, integration testing and deployment on CI/CD pipeline.
 
 # 📝 Works
-## SoftWare Engineering Application
+## Software Engineering Application
 - [Intelligent-Video-Recommendation-System](https://github.com/KangruiRen0102/Intelligent-Video-Recommendation-System)  
   The work is to create a movie recommender system for a movie streaming service with about 1 million customers and 27k movies.
 
 ## Machine Learning Topics
 - [Application on Case Analysis of Active Learning in Reducing Annotation Cost](https://github.com/KangruiRen0102/Application-on-Case-Analysis-of-Active-Learning-in-Reducing-Annotation-Cost)  
-  The work is to analyze the performance of active learning labeling costs reduction using AIFT algorithm in a medical imaging case study.
+  The work analyzed the performance of active learning labeling costs reduction using AIFT algorithm in a medical imaging case study.
 
 - [Predicting-climate-change-driven-changes-in-plant-distribution](https://github.com/KangruiRen0102/Predicting-climate-change-driven-changes-in-plant-distribution)  
-  The work is to raise a proposal of methodology of using deep learning to predict climate change effects to local ecosystem distribution.
+  The work raised a proposal of methodology of using deep learning to predict climate change effects to local ecosystem distribution.
 
 - [Neural-Symbolic-Reasoning-for-Handwritten-Expression-Evaluation](https://github.com/KangruiRen0102/Neural-Symbolic-Reasoning-for-Handwritten-Expression-Evaluation)   
   The work conducted experiments on inverse nerual symbolic logical reasoning for handwritten expressions with DeepProbLog and discovered limitations of gradient semiring in nonelementary arithmetic reasoning.
@@ -49,7 +49,8 @@ I joined Amazon Web Services as a software engineer after graduation. I worked o
 
 
 # 💻 Professional Experiences
-- *2022.02 - 2022.05*, [Amazon Web Services](https://aws.amazon.com/), Software Engineer, Vancouver.
+- *2022.02 - 2022.05*, Software Engineer at [Amazon Web Services](https://aws.amazon.com/), Vancouver.
+- *2021.06 - 2021.12*, Research Assistant at [Yobotics](https://www.yobotics.cn/), China(remote).
 
 # 💬 Personal Interests
 - I am very interested in traditional Chinese musical instruments, Buddhism, especially Tibetan esoteric sects, and ancient history.
