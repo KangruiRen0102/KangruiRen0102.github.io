@@ -43,7 +43,7 @@ In addition, I'm also interested in computer vision, multimodal machine learning
   The work (advised by [Prof. David Rolnick](https://davidrolnick.com/)) raised a proposal of methodology of using deep learning to predict climate change effects to local ecosystem distribution.
 
 - [Neural-Symbolic-Reasoning-for-Handwritten-Expression-Evaluation](https://github.com/KangruiRen0102/Neural-Symbolic-Reasoning-for-Handwritten-Expression-Evaluation)   
-  The work (supervised by [Prof. Xujie Si](https://www.cs.mcgill.ca/~xsi)) conducted experiments on inverse nerual symbolic logical reasoning for handwritten expressions with DeepProbLog and discovered limitations of gradient semiring in nonelementary arithmetic reasoning.
+  The work (supervised by [Prof. Xujie Si](https://www.cs.mcgill.ca/~xsi)) conducted experiments on inverse neural symbolic logical reasoning for handwritten expressions with DeepProbLog and discovered limitations of gradient semiring in nonelementary arithmetic reasoning.
   
 - [Obstacle visual detection and multimodal interaction of quadruped bionic robot](https://www.yobotics.cn/)  
   In this work, the depth information and infrared information are fused, and the adaptive threshold is used to segment the obstacle from the background for accuracy issues.
