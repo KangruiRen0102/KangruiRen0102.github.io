@@ -20,10 +20,12 @@ I graduated from [McGill University](https://www.mcgill.ca) with a bachelor’s 
 
 I joined Amazon Web Services as a software engineer after graduation. I worked on daily ops investigation to analyze customer impact and undertake maintenance of affected AWS services. In addition, I also worked on existing features addition, local unit testing, integration testing, and deployment on CI/CD pipeline.
 
-My last year of university research focused on software engineering applications, statistical learning theory, and the application of ML/DL topics. In addition, I am also interested in applying computer vision to medical imaging, computer graphics for the simulation of natural ecosystems, and computing theory.
+My Undergraduate research include software engineering applications, the theory of statistical learning, and high-level logical reasoning in DL.
+In addition, I'm also interested in computer vision, multimodal machine learning, and theoretical computer science.
+
 
 # 📝 Works
-## Software Engineering Application
+## Software Engineering Applications
 - [Intelligent-Video-Recommendation-System](https://github.com/KangruiRen0102/Intelligent-Video-Recommendation-System)  
   The work (advised by [Prof. Jin Guo](https://www.cs.mcgill.ca/~jguo/lab.html)) created a movie recommender system for a movie streaming service with about 1 million customers and 27k movies.
   
@@ -64,7 +66,7 @@ My last year of university research focused on software engineering applications
 
 # 💬 Personal Interests
 - I am very interested in traditional Chinese musical instruments, Buddhism, especially Tibetan esoteric sects, and ancient history.
-- I am proficient in ErHu performance (Professional LV 10), and I'm well-played with Dongxiao, Hulusi, Xun.
+- I am proficient in ErHu performance (Professional LV 10), and I'm well-played with Dongxiao, Hulusi, and Xun.
 
 
 
