@@ -16,12 +16,13 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-I graduated from [McGill University](https://www.mcgill.ca) with a bachelor’s degree in Honours Computer Science, advised by [Prof. Xujie Si](https://www.cs.mcgill.ca/~xsi). I also worked with [Prof. Jin Guo](https://www.cs.mcgill.ca/~jguo/lab.html), [Prof. Prakash Panangaden](https://www.cs.mcgill.ca/~prakash/), [Prof. David Rolnick](https://davidrolnick.com/) for graduate project studies. I visited Stanford University in Fall 2019 to pursue advanced studies in artificial intelligence and machine learning. 
+I graduated from [McGill University](https://www.mcgill.ca) with a bachelor’s degree in Honours Computer Science, advised by [Prof. Xujie Si](https://www.cs.mcgill.ca/~xsi). 
 
-I joined Amazon Web Services as a software engineer after graduation. I worked on daily ops investigation to analyze customer impact and undertake maintenance of affected AWS services. In addition, I also worked on existing features addition, local unit testing, integration testing, and deployment on CI/CD pipeline.
+I also worked with [Prof. Jin Guo](https://www.cs.mcgill.ca/~jguo/lab.html), [Prof. Prakash Panangaden](https://www.cs.mcgill.ca/~prakash/), [Prof. David Rolnick](https://davidrolnick.com/) for graduate project studies. In Fall 2019, I visited Stanford University as a part time student for advanced studies in artificial intelligence and machine learning. 
 
-My Undergraduate research include software engineering applications, the theory of statistical learning, and high-level logical reasoning in DL.
-In addition, I'm also interested in computer vision, multimodal machine learning, and theoretical computer science.
+After graduation, I joined Amazon Web Services as a software engineer. 
+
+My research interest mainly lies in machine learning，from theory to application. 
 
 Please see my [CV](https://drive.google.com/file/d/1aBuy-8lznIKpe_gnUz_QOKPARDu5HuhJ/view?usp=sharing) for more information.
 
