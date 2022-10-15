@@ -23,7 +23,7 @@ I joined Amazon Web Services as a software engineer after graduation. I worked o
 My Undergraduate research include software engineering applications, the theory of statistical learning, and high-level logical reasoning in DL.
 In addition, I'm also interested in computer vision, multimodal machine learning, and theoretical computer science.
 
-Please see my [CV](https://drive.google.com/file/d/1mghLDySj3PYjwmynugl6PbWFQouEQ6Rq/view?usp=sharing) for more information.
+Please see my [CV](https://drive.google.com/file/d/1aBuy-8lznIKpe_gnUz_QOKPARDu5HuhJ/view?usp=sharing) for more information.
 
 
 # 📝 Works
