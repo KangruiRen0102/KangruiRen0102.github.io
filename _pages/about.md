@@ -22,7 +22,7 @@ I also worked with [Prof. Jin Guo](https://www.cs.mcgill.ca/~jguo/lab.html), [Pr
 
 After graduation, I joined Amazon Web Services as a software engineer. 
 
-My research interest mainly lies in machine learning，from theory to application. 
+My research interests focus on multi-modal computer vision, statistical learning algorithm and theory, Human-Computer Interaction, and machine learning in computational biology.
 
 Please see my [CV](https://drive.google.com/file/d/1aBuy-8lznIKpe_gnUz_QOKPARDu5HuhJ/view?usp=sharing) for more information.
 
@@ -57,8 +57,8 @@ Please see my [CV](https://drive.google.com/file/d/1aBuy-8lznIKpe_gnUz_QOKPARDu5
 - *2018.09* Alma Mater Scholarship.
 
 # 📖 Educations
-- *2018.09 - 2021.04*, McGill University, Bachelor of Science, Montreal, Canada.
-- *2019.06 - 2019.08*, Stanford University, Visiting Student, Palo Alto, United States of America.
+- *2018.09 - 2021.04*, [McGill University](https://www.mcgill.ca/), Bachelor of Science, Montreal, Canada.
+- *2019.06 - 2019.08*, [Stanford University](https://www.stanford.edu/), Visiting Student, Palo Alto, United States of America.
 - *2012.09 - 2018.06*, Chengdu Experimental Foreign Language School, Chengdu, China.
 - *2007.09 - 2012.06*, Shanxian Experimental Primary School, Shanxian, China.
 
