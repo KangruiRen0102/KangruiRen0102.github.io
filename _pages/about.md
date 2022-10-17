@@ -22,7 +22,7 @@ My research interests focus on multi-modal computer vision, statistical learning
 
 I graduated from [McGill University](https://www.mcgill.ca) with a bachelor’s degree in Honours Computer Science, advised by [Prof. Xujie Si](https://www.cs.mcgill.ca/~xsi). I also worked with [Prof. Jin Guo](https://www.cs.mcgill.ca/~jguo/lab.html), [Prof. Prakash Panangaden](https://www.cs.mcgill.ca/~prakash/), and [Prof. David Rolnick](https://davidrolnick.com/) for graduate project studies. 
 
-I visited Stanford University as a part time student in Jun.2019 and I joined Amazon Web Services as a software engineer intern starting from Feb.2022. 
+I visited Stanford University as a part time student in Jun 2019 and I joined Amazon Web Services as a software engineer intern starting from Feb 2022. 
 
 If you are interested learning more about me, please see my [CV](https://drive.google.com/file/d/1FlWdDaBvE3uPQnwun3fDXZGRaYwHH1QG/view?usp=sharing).
 
