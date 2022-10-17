@@ -18,13 +18,13 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 Hi, this is Kangrui Ren!
 
-My research interests focus on multi-modal computer vision, statistical learning algorithm and theory, Human-Computer Interaction, and machine learning in computational biology.
+My research interests focus on multi-modal computer vision, statistical learning algorithms and theory, Human-Computer Interaction, and machine learning in computational biology.
 
 I graduated from [McGill University](https://www.mcgill.ca) with a bachelor’s degree in Honours Computer Science, advised by [Prof. Xujie Si](https://www.cs.mcgill.ca/~xsi). I also worked with [Prof. Jin Guo](https://www.cs.mcgill.ca/~jguo/lab.html), [Prof. Prakash Panangaden](https://www.cs.mcgill.ca/~prakash/), and [Prof. David Rolnick](https://davidrolnick.com/) for graduate project studies. 
 
-I visited Stanford University as a part time student in Jun 2019 and I joined Amazon Web Services as a software engineer intern starting from Feb 2022. 
+I visited Stanford University as a part-time student in Jun 2019 and I joined Amazon Web Services as a software engineer intern starting in Feb 2022. 
 
-If you are interested learning more about me, please see my [CV](https://drive.google.com/file/d/1FlWdDaBvE3uPQnwun3fDXZGRaYwHH1QG/view?usp=sharing).
+If you are interested in learning more about me, please see my [CV](https://drive.google.com/file/d/1FlWdDaBvE3uPQnwun3fDXZGRaYwHH1QG/view?usp=sharing).
 
 
 # 📝 Works
@@ -43,14 +43,14 @@ If you are interested learning more about me, please see my [CV](https://drive.g
   The work analyzed the performance of active learning labeling costs reduction using AIFT algorithm in a medical imaging case study.
 
 - [Predicting-climate-change-driven-changes-in-plant-distribution](https://drive.google.com/file/d/1epxWRMVJHSaiT6j6yeoh8Zhmpd8TRDs2/view?usp=sharing)  
-  The work raised a proposal of methodology of using deep learning to predict climate change effects on local ecosystem distribution.
+  The work raised a proposal for a methodology of using deep learning to predict climate change effects on local ecosystem distribution.
 
 - [Neural-Symbolic-Reasoning-for-Handwritten-Expression-Evaluation](https://github.com/KangruiRen0102/Neural-Symbolic-Reasoning-for-Handwritten-Expression-Evaluation)   
   The work conducted experiments on inverse neural symbolic logical reasoning for handwritten expressions with DeepProbLog and discovered limitations of gradient semiring in nonelementary arithmetic reasoning.
   
 - [Obstacle visual detection and multimodal interaction of quadruped bionic robot](https://www.yobotics.cn/)  
-  The goal of this work is to take Li-DAR/Infrared based visual multi-modal Quadruped Bionic Robot perception learning and obstacle detection.
-  I am mainly engaged in system algorithm construction and multi-modal perception analysis related work.
+  This work aims to take Li-DAR/Infrared based visual multi-modal Quadruped Bionic Robot perception learning and obstacle detection.
+  I am mainly engaged in system algorithm construction and multi-modal perception analysis.
   
 
 # 🎖 Honours and Awards
