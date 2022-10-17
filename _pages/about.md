@@ -24,7 +24,7 @@ I graduated from [McGill University](https://www.mcgill.ca) with a bachelor’s 
 
 I visited Stanford University as a part time student in Jun.2019 and I joined Amazon Web Services as a software engineer intern starting from Feb.2022. 
 
-Here are my [CV](https://drive.google.com/file/d/1FlWdDaBvE3uPQnwun3fDXZGRaYwHH1QG/view?usp=sharing).
+If you are interested learning more about me, please see my [CV](https://drive.google.com/file/d/1FlWdDaBvE3uPQnwun3fDXZGRaYwHH1QG/view?usp=sharing).
 
 
 # 📝 Works
@@ -39,17 +39,16 @@ Here are my [CV](https://drive.google.com/file/d/1FlWdDaBvE3uPQnwun3fDXZGRaYwHH1
   The work implemented a multi-client, multi-server travel reservation system using Remote Method Invocation and TCP sockets, which provides integrated travel booking services.
 
 ## Machine Learning Topics
-- [Application on Case Analysis of Active Learning in Reducing Annotation Cost](https://github.com/KangruiRen0102/Application-on-Case-Analysis-of-Active-Learning-in-Reducing-Annotation-Cost)  
+- [Application on Case Analysis of Active Learning in Reducing Annotation Cost](https://drive.google.com/file/d/1z2UEpMi762UmMe-_OXGbVc3r4qeD-2Q-/view?usp=sharing)  
   The work analyzed the performance of active learning labeling costs reduction using AIFT algorithm in a medical imaging case study.
 
-- [Predicting-climate-change-driven-changes-in-plant-distribution](https://github.com/KangruiRen0102/Predicting-climate-change-driven-changes-in-plant-distribution)  
+- [Predicting-climate-change-driven-changes-in-plant-distribution](https://drive.google.com/file/d/1epxWRMVJHSaiT6j6yeoh8Zhmpd8TRDs2/view?usp=sharing)  
   The work raised a proposal of methodology of using deep learning to predict climate change effects on local ecosystem distribution.
 
 - [Neural-Symbolic-Reasoning-for-Handwritten-Expression-Evaluation](https://github.com/KangruiRen0102/Neural-Symbolic-Reasoning-for-Handwritten-Expression-Evaluation)   
   The work conducted experiments on inverse neural symbolic logical reasoning for handwritten expressions with DeepProbLog and discovered limitations of gradient semiring in nonelementary arithmetic reasoning.
   
 - [Obstacle visual detection and multimodal interaction of quadruped bionic robot](https://www.yobotics.cn/)  
-  
   The goal of this work is to take Li-DAR/Infrared based visual multi-modal Quadruped Bionic Robot perception learning and obstacle detection.
   I am mainly engaged in system algorithm construction and multi-modal perception analysis related work.
   
@@ -65,7 +64,7 @@ Here are my [CV](https://drive.google.com/file/d/1FlWdDaBvE3uPQnwun3fDXZGRaYwHH1
 
 # 💻 Professional Experiences
 - *2022.02 - 2022.05*, Software Engineer at [Amazon Web Services](https://aws.amazon.com/), Vancouver.
-- *2021.06 - 2021.12*, Research Assistant at [Yobotics](https://www.yobotics.cn/), China (remote).
+- *2021.05 - 2021.12*, Research Assistant at [Yobotics](https://www.yobotics.cn/), China (remote).
 
 # 💬 Personal Interests
 - I am very interested in traditional Chinese musical instruments, Buddhism, especially Tibetan esoteric sects, and ancient history.
