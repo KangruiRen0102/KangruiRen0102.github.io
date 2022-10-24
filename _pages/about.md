@@ -24,7 +24,7 @@ I graduated from [McGill University](https://www.mcgill.ca) with a bachelor’s 
 
 I visited Stanford University as a part-time student in Jun 2019 and I joined Amazon Web Services as a software engineer intern starting in Feb 2022. 
 
-If you are interested in learning more about me, please see my [CV](https://drive.google.com/file/d/1FlWdDaBvE3uPQnwun3fDXZGRaYwHH1QG/view?usp=sharing).
+If you are interested in learning more about me, please see my [CV](https://drive.google.com/file/d/1w4twC_IMHDalUh568FxP3uqXdBj-bUEv/view?usp=sharing).
 
 
 # 📝 Works
@@ -58,7 +58,7 @@ If you are interested in learning more about me, please see my [CV](https://driv
 
 # 🎖 Honours and Awards
 - *2022.02* Distinguished Research Assistant, National High-tech R&D Program Committee.
-- *2021.12* Distinguished Research Assistant, Yobotics EPR-Vision Lab.
+- *2021.12* Outstanding Robot Perception Researcher Award, Yobotics EPR-Vision Lab.
 - *2021.06* First Class Honours in Computer Science, McGill University.
 - *2018.09* Alma Mater Scholarship, McGill University.
 
