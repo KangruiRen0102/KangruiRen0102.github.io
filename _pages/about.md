@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 Hi, this is Kangrui Ren!
 
-My research interests focus on multi-modal computer vision, statistical learning algorithms and theory, Human-Computer Interaction, and machine learning in computational biology.
+My research interests focus on computer vision and perception, statistical learning theory, Human-Computer/Robotic Interaction.
 
 I graduated from [McGill University](https://www.mcgill.ca) with a bachelor’s degree in Honours Computer Science, advised by [Prof. Xujie Si](https://www.cs.mcgill.ca/~xsi). I also worked with [Prof. Jin Guo](https://www.cs.mcgill.ca/~jguo/lab.html), [Prof. Prakash Panangaden](https://www.cs.mcgill.ca/~prakash/), and [Prof. David Rolnick](https://davidrolnick.com/) for graduate project studies. 
 
@@ -48,12 +48,16 @@ If you are interested in learning more about me, please see my [CV](https://driv
 - [Neural-Symbolic-Reasoning-for-Handwritten-Expression-Evaluation](https://github.com/KangruiRen0102/Neural-Symbolic-Reasoning-for-Handwritten-Expression-Evaluation)   
   The work conducted experiments on inverse neural symbolic logical reasoning for handwritten expressions with DeepProbLog and discovered limitations of gradient semiring in nonelementary arithmetic reasoning.
   
-- [Obstacle visual detection and multimodal interaction of quadruped bionic robot](https://www.yobotics.cn/)  
-  This work aims to take Li-DAR/Infrared based visual multi-modal Quadruped Bionic Robot perception learning and obstacle detection.
-  I am mainly engaged in system algorithm construction and multi-modal perception analysis.
+- [Semi-Static Visual Representation of Quadruped Bionic Robot](https://www.yobotics.cn/)  
+  This work aims to take Li-DAR/Infrared based visual multi-modal quadruped bionic robot perception learning and obstacle detection.
+  I mainly engaged in system algorithm construction and multi-modal perception analysis.
   
+- [Active Coal Mining Robot Perception in Transportation Environment](https://www.yobotics.cn/)  
+  This work aims to ensure the reliability of global obstacles detection, severe case evasion, regular memorization during robot transportation.
+  I mainly engaged in model improvement in representation learning and prototypical network.
 
 # 🎖 Honours and Awards
+- *2022.02* Distinguished Research Assistant, National High-tech R&D Program Committee.
 - *2021.12* Distinguished Research Assistant, Yobotics EPR-Vision Lab.
 - *2021.06* First Class Honours in Computer Science, McGill University.
 - *2018.09* Alma Mater Scholarship, McGill University.
