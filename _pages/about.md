@@ -67,7 +67,7 @@ If you are interested in learning more about me, please see my [CV](https://driv
 - *2019.06 - 2019.08*, [Stanford University](https://www.stanford.edu/), Visiting Student, Palo Alto, United States of America.
 
 # 💻 Professional Experiences
-- *2022.02 - 2022.05*, Software Engineer at [Amazon Web Services](https://aws.amazon.com/), Vancouver.
+- *2022.02 - 2023.05*, Software Engineer at [Amazon Web Services](https://aws.amazon.com/), Vancouver.
 - *2021.05 - 2021.12*, Research Assistant at [Yobotics](https://www.yobotics.cn/), China (remote).
 
 # 💬 Personal Interests
