@@ -24,7 +24,7 @@ I graduated from [McGill University](https://www.mcgill.ca) with a bachelor’s 
 
 I visited Stanford University as a part-time student in May 2019 and I joined Amazon Web Services as a software engineer starting in Feb 2022. 
 
-If you are interested in learning more about me, please see my [CV](https://drive.google.com/file/d/1Yj9RRB_Qn2-HFUhxPJOotCS6eTI0KN7D/view?usp=sharing](https://drive.google.com/file/d/1Yj9RRB_Qn2-HFUhxPJOotCS6eTI0KN7D/view?usp=sharing).
+If you are interested in learning more about me, please see my [CV](https://drive.google.com/file/d/1Yj9RRB_Qn2-HFUhxPJOotCS6eTI0KN7D/view?usp=sharing).
 
 
 # 📝 Works
