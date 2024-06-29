@@ -47,7 +47,6 @@ For further details, please refer to my [CV](https://drive.google.com/file/d/1Yj
 
 - [Neural-Symbolic-Reasoning-for-Handwritten-Expression-Evaluation](https://github.com/KangruiRen0102/Neural-Symbolic-Reasoning-for-Handwritten-Expression-Evaluation)   
   The work experimented with inverse neural symbolic logical reasoning for handwritten expressions using DeepProbLog.
-  
   It also identified limitations of the gradient semiring in non-elementary arithmetic reasoning.
   
 - [Semi-Static Visual Representation of Quadruped Bionic Robot](https://www.yobotics.cn/)  
