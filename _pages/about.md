@@ -36,7 +36,7 @@ For further details, please refer to my [CV](https://drive.google.com/file/d/1Yj
   The work developed an online hotel booking system to facilitate hotel-to-guest communications and meet basic management needs.
   
 - [Distributed Travel Reservation System](https://drive.google.com/drive/folders/11CwL1YIGfixglh8W0nFGtC3q5_1DmH9z?usp=sharing)  
-  The work implemented a multi-client, multi-server travel reservation system using RMI and TCP sockets, offering integrated travel booking services.
+  The work confirmed a multi-client, multi-server travel reservation system using RMI and TCP sockets, offering integrated travel booking services.
 
 ## Machine Learning Topics
 - [Application on Case Analysis of Active Learning in Reducing Annotation Cost](https://drive.google.com/file/d/1z2UEpMi762UmMe-_OXGbVc3r4qeD-2Q-/view?usp=sharing)  
@@ -46,7 +46,8 @@ For further details, please refer to my [CV](https://drive.google.com/file/d/1Yj
   The work raised a proposal for a methodology of using deep learning to predict climate change effects on local ecosystem distribution.
 
 - [Neural-Symbolic-Reasoning-for-Handwritten-Expression-Evaluation](https://github.com/KangruiRen0102/Neural-Symbolic-Reasoning-for-Handwritten-Expression-Evaluation)   
-  The work experimented with inverse neural symbolic logical reasoning for handwritten expressions using DeepProbLog and identified limitations of the gradient semiring in non-elementary arithmetic reasoning.
+  The work experimented with inverse neural symbolic logical reasoning for handwritten expressions using DeepProbLog
+  It also identified limitations of the gradient semiring in non-elementary arithmetic reasoning.
   
 - [Semi-Static Visual Representation of Quadruped Bionic Robot](https://www.yobotics.cn/)  
   This work aims to take Li-DAR/Infrared based visual multi-modal quadruped bionic robot perception learning and obstacle detection.
