@@ -46,7 +46,8 @@ For further details, please refer to my [CV](https://drive.google.com/file/d/1Yj
   The work raised a proposal for a methodology of using deep learning to predict climate change effects on local ecosystem distribution.
 
 - [Neural-Symbolic-Reasoning-for-Handwritten-Expression-Evaluation](https://github.com/KangruiRen0102/Neural-Symbolic-Reasoning-for-Handwritten-Expression-Evaluation)   
-  The work experimented with inverse neural symbolic logical reasoning for handwritten expressions using DeepProbLog
+  The work experimented with inverse neural symbolic logical reasoning for handwritten expressions using DeepProbLog.
+  
   It also identified limitations of the gradient semiring in non-elementary arithmetic reasoning.
   
 - [Semi-Static Visual Representation of Quadruped Bionic Robot](https://www.yobotics.cn/)  
