@@ -16,15 +16,13 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-Hi, this is Kangrui Ren!
+I am Kangrui Ren, with a primary research focus on computer vision, perception, statistical learning theory, and Human-Computer/Robotic Interaction.
 
-My research interests focus on computer vision and perception, statistical learning theory, Human-Computer/Robotic Interaction.
+I hold a Bachelor’s degree in Honours Computer Science from [McGill University](https://www.mcgill.ca), where I was advised by [Prof. Xujie Si](https://www.cs.mcgill.ca/~xsi). My academic journey also includes collaborative research with [Prof. Jin Guo](https://www.cs.mcgill.ca/~jguo/lab.html), [Prof. Prakash Panangaden](https://www.cs.mcgill.ca/~prakash/), and [Prof. David Rolnick](https://davidrolnick.com/) for graduate project studies. 
 
-I graduated from [McGill University](https://www.mcgill.ca) with a bachelor’s degree in Honours Computer Science, advised by [Prof. Xujie Si](https://www.cs.mcgill.ca/~xsi). I also worked with [Prof. Jin Guo](https://www.cs.mcgill.ca/~jguo/lab.html), [Prof. Prakash Panangaden](https://www.cs.mcgill.ca/~prakash/), and [Prof. David Rolnick](https://davidrolnick.com/) for graduate project studies. 
+In May 2019, I attended Stanford University as a part-time student, further broadening my academic horizons. Since February 2022, I have been contributing as a software engineer at Amazon Web Services.
 
-I visited Stanford University as a part-time student in May 2019 and I joined Amazon Web Services as a software engineer starting in Feb 2022. 
-
-If you are interested in learning more about me, please see my [CV](https://drive.google.com/file/d/1Yj9RRB_Qn2-HFUhxPJOotCS6eTI0KN7D/view?usp=sharing).
+For further details, please refer to my [CV](https://drive.google.com/file/d/1Yj9RRB_Qn2-HFUhxPJOotCS6eTI0KN7D/view?usp=sharing).
 
 
 # 📝 Works
